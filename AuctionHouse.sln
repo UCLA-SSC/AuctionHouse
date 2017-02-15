@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatLabConnector", "..\..\..\..\Documents\Visual Studio 2015\Projects\AuctionHouseMultiplayer\MatLabConnector\MatLabConnector.csproj", "{2D493FF3-A288-476E-B84C-BBD92D03ACBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatLabConnector", "MatLabConnector\MatLabConnector.csproj", "{2D493FF3-A288-476E-B84C-BBD92D03ACBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
